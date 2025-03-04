@@ -1,6 +1,6 @@
 # Maintainer: Catppuccin <releases@catppuccin.com>
 
-pkgname=catppuccin-gtk-theme-mocha
+pkgname=catppuccin-gtk-theme-mocha-revamped
 pkgver=1.0.3 # renovate: datasource=github-tags depName=catppuccin/gtk
 pkgrel=1
 pkgdesc='Soothing pastel theme for GTK - Mocha'
